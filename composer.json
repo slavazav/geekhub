@@ -1,0 +1,19 @@
+{
+    "name": "slava/geekhub",
+    "authors": [
+        {
+            "name": "Slava Zavalko",
+            "email": "zavviv@gmail.com"
+        }
+    ],
+    "require": {
+        "smarty/smarty": "^3.1",
+        "dannyvankooten/php-router": "^1.1@alpha",
+        "hybridauth/hybridauth": "^2.7"
+    },
+    "require-dev": {
+        "maximebf/debugbar": "^1.13"
+    },
+    "minimum-stability": "alpha",
+    "prefer-stable": true
+}
